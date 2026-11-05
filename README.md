@@ -9,7 +9,7 @@
 
 ### 🧠 NeetCode Journey
 
-> 🚀 **[Xem Repository NeetCode Submissions của mình tại đây](https://github.com/Loc1708/neetcode-submissions)** (Được code bằng C++ và đồng bộ tự động)
+> 🚀 **[My Repository NeetCode Submissions](https://github.com/Loc1708/neetcode-submissions)**
 
 **🔥 NeetCode Topics Focus (C++)**
 | Topic | Status | Topic | Status |
