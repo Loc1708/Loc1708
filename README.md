@@ -7,12 +7,9 @@
 - **Tools & Technologies:** Google Gemini API, GraphRAG, Git
 - **Core Concepts:** OOP, System Analysis & Design, Competitive Programming
 
-### 🧠 NeetCode / LeetCode Journey
-<div align="center">
-  <a href="https://github.com/Loc1708/neetcode-submissions">
-    <img src="https://leetcard.jacoblin.cool/Loc1708?theme=radical&ext=activity" alt="LeetCode Stats" />
-  </a>
-</div>
+### 🧠 NeetCode Journey
+
+> 🚀 **[Xem Repository NeetCode Submissions của mình tại đây](https://github.com/Loc1708/neetcode-submissions)** (Được code bằng C++ và đồng bộ tự động)
 
 **🔥 NeetCode Topics Focus (C++)**
 | Topic | Status | Topic | Status |
